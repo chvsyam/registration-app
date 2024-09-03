@@ -22,7 +22,7 @@ pipeline {
 		
 		stage("Checkout fromSCM"){
 			steps {
-				git branch: 'main', credentialsId: 'github', url: 'https://github.com/chvsyam/registration-app.git'
+				git branch: 'patch-1', credentialsId: 'github', url: 'https://github.com/chvsyam/registration-app.git'
 			}
 		}
 		
