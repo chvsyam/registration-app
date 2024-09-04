@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> welcome to new season </h1>
+   <h1> welcome to new seasons </h1>
   
 </form>
